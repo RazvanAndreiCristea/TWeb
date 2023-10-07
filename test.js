@@ -1,1 +1,1 @@
-console.log("Haide sa facem Javra Fript");
+console.log("Hello world");
