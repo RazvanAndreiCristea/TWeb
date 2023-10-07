@@ -1,0 +1,1 @@
+console.log("Haide sa facem Javra Fript");
